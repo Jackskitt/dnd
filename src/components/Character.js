@@ -61,7 +61,7 @@ class Character extends React.Component{
   }
 
   render() {
-    let stats = this.renderStats();      
+    let stats = this.renderStats();
 
     return (
     <div id="stats">      
